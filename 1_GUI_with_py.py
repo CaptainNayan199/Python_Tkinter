@@ -3,4 +3,4 @@ import tkinter as nayan
 
 root = Tk()
 root.title("Day_1 Tkinter")
-root.geometry
+root.geometry("400x600")
