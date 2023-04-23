@@ -1,4 +1,4 @@
 from tkinter import *
 root = Tk()
-myLabel = Label(root, 
+myLabel = Label
 
