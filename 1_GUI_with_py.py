@@ -15,4 +15,4 @@ myLabel.pack()
 myLabel2.pack()
 root.mainloop()
 print("Hheheheheeh")
-# a simple
+# a simple Desktop
